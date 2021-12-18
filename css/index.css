@@ -1,0 +1,35 @@
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+nav{
+    text-align: center;
+    background-color: midnightblue; 
+    font-size:x-large;  
+   
+}
+
+.bg-nav{
+    background-color: midnightblue;
+}
+
+footer{
+    height: 95px;
+}
+
+.topleft {
+    position: absolute;
+    top: 130px;
+    left: 240px;
+    font-size: 45px;
+    color: mintcream;
+    text-shadow: grey;
+    box-shadow: grey;
+  }
+
+#img1{
+    width:  325px;
+    height: 65px;   
+}
+
+
